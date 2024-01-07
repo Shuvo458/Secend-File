@@ -1,0 +1,49 @@
+.body{
+	background-color: none;
+}
+
+h1{
+	font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 40px;
+    background-size: cover;
+    color: rgb(240, 13, 172);
+    padding: 5px;
+    background-color: blueviolet;
+    text-decoration: underline;
+}
+
+main {
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(21, 228, 14);
+    height: 200px;
+    padding-top: 10px;
+
+}
+
+ul{
+    color: aliceblue;
+    padding: auto;
+    text-align: left;
+}
+
+ul li{
+    padding-left: 1px;
+    text-align: none;
+}
+
+
+
+img{
+    height: 150px;
+    width: 200px;
+    padding-top: 30px;
+}
+
+.btn{
+    padding-left: 10px;
+    color: brown;
+}
